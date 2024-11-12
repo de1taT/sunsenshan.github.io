@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "The effect of dataset size and the process of big data mining for investigating solar-thermal desalination by using machine learning"
+collection: International Journal of Heat and Mass Transfer 236 (2025) 126365
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
