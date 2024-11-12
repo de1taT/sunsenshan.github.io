@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Senshan Sun / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your name"
+name                     : &name "Senshan Sun"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "Huazhong University of Science and Technology"
-  uri              : # URL
+  uri              : https://de1tat.github.io/sunsenshan.github.io/
   email            : "sunsenshan@hust.edu.cn" 
 
   # Academic websites
