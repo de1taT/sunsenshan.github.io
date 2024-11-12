@@ -1,5 +1,5 @@
 ---
-title: "The effect of dataset size and the process of big data mining for investigating solar-thermal desalination by using machine learning."
+title: "The effect of dataset size and the process of big data mining for investigating solar-thermal desalination by using machine learning"
 collection: International Journal of Heat and Mass Transfer 236 (2025) 126365
 category: manuscripts
 permalink: [https://doi.org/10.1016/j.ijheatmasstransfer.2024.126365](https://doi.org/10.1016/j.ijheatmasstransfer.2024.126365)
