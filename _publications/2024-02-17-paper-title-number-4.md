@@ -1,6 +1,6 @@
 ---
 title: "Paper Title Number 4"
-collection: publications
+collection: International Journal of Heat and Mass Transfer 236 (2025) 126365
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
