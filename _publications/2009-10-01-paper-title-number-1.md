@@ -1,6 +1,6 @@
 ---
 title: "A study on the upper limit efficiency of solar still by optimizing the mass transfer"
-collection: #Applied Thermal Engineering 2022, 213: 118664.
+collection: publications
 category: manuscripts
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
