@@ -1,9 +1,9 @@
 ---
-title: "热法海水淡化组合系统大数据采集系统及系统优化方法"
+title: "Dating collection system and optimization method of hybrid thermal desalination system"
 collection: publications
 category: conferences
 permalink: #'https://doi.org/10.1016/j.ijheatmasstransfer.2024.126365'
-excerpt: '中国，发明专利，授权时间： 2024-05-14，专利号： ZL 202310162899.6（已授权）'
+excerpt: 'Nuo Yang, Senshan Sun, Guilong Peng, Juxin Du, Bo Li, Zhenwei Xue, Yangjun Qin'
 date: 2024-05-14
 permalink: #/publication/2024-02-17-paper-title-number-4
 excerpt: #'This paper is about fixing template issue #693.'
