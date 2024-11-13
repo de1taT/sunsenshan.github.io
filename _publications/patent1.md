@@ -1,7 +1,7 @@
 ---
 title: "Dating collection system and optimization method of hybrid thermal desalination system"
 collection: publications
-category: patent
+category: patents
 permalink: '/publication/patent1'
 excerpt: 'Nuo Yang, Senshan Sun, Guilong Peng, Juxin Du, Bo Li, Zhenwei Xue, Yangjun Qin'
 date: 2024-05-14
