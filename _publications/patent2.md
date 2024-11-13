@@ -1,7 +1,7 @@
 ---
 title: "The Solar still system of inner and outer condensing"
 collection: publications
-category: conferences
+category: patents
 permalink: '/publication/patent2'
 excerpt: 'Nuo Yang, Zhenwei Xu, Wenjie Gao, Senshan Sun, Gen Li, Guilong Peng, Yunpeng Wang'
 date: 2020-10-04
