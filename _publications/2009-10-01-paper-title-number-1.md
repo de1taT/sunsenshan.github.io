@@ -11,4 +11,4 @@ paperurl: #'[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1016/j.applthermaleng.2022.118664)
+[https://doi.org/10.1016/j.applthermaleng.2022.118664](https://doi.org/10.1016/j.applthermaleng.2022.118664)
