@@ -1,12 +1,8 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Senshan Sun</strong>, Juxin Du, Guilong Peng*, Nuo Yang*. A data-driven method to construct prediction model of solar stills. Desalination 587 (2024) 117946. [[Paper]](https://github.com/senli1073/LaNCor)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Guilong Peng#, <strong>Senshan Sun#</strong>, Yangjun Qin, Zhenwei Xue, Juxin Du, Swellam W. sharshir, A. W. Kandel, A. E. Kabeel, Nuo Yang*. The effect of dataset size and the process of big data mining for investigating solar-thermal desalination by using machine learning. International Journal of Heat and Mass Transfer 236 (2025) 126365. [[Paper]](https://github.com/senli1073/LaNCor)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Guilong Peng, Zhenwei Xu, Jiajun Ji, <strong>Senshan Sun</strong>, Nuo Yang*. A study on the upper limit efficiency of solar still by optimizing the mass transfer. Applied Thermal Engineering 2022, 213: 118664. [[Paper]](https://github.com/senli1073/LaNCor)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Wenjie Gao, Leshan Shen, <strong>Senshan Sun</strong>, Guilong Peng, Zhen Shen, Yunpeng Wang, AbdAllah Wagih Kandeal, Zhouyang Luo, A. E. Kabeel, Nuo Yang*, et al.. Forecasting solar still performance from conventional weather data variation by machine learning method. Chinese Physics B 2023, 32: 048801. [[Paper]](https://github.com/senli1073/LaNCor)
 
