@@ -1,13 +1,13 @@
 
 #### Paper
 
-- <strong>Senshan Sun</strong>, Juxin Du, Guilong Peng*, Nuo Yang*. A data-driven method to construct prediction model of solar stills. Desalination 587 (2024) 117946. [[Paper]](../static/assets/pub/Desalination, 587 (2024) 117946..pdf)
+- <strong>Senshan Sun</strong>, Juxin Du, Guilong Peng*, Nuo Yang*. A data-driven method to construct prediction model of solar stills. Desalination 587 (2024) 117946. [[Paper]](https://doi.org/10.1016/j.desal.2024.117946)
 
-- Guilong Peng#, <strong>Senshan Sun#</strong>, Yangjun Qin, Zhenwei Xue, Juxin Du, Swellam W. sharshir, A. W. Kandel, A. E. Kabeel, Nuo Yang*. The effect of dataset size and the process of big data mining for investigating solar-thermal desalination by using machine learning. International Journal of Heat and Mass Transfer 236 (2025) 126365. [[Paper]](https://github.com/de1taT/sunsenshan.github.io/blob/97f133b28bb31554a0c7c34dc9620727aecb27d7/static/assets/pub/Int.%20J.%20Heat%20Mass%20Tran.%2C%20236%20(2025)%20126365..pdf)
+- Guilong Peng#, <strong>Senshan Sun#</strong>, Yangjun Qin, Zhenwei Xue, Juxin Du, Swellam W. sharshir, A. W. Kandel, A. E. Kabeel, Nuo Yang*. The effect of dataset size and the process of big data mining for investigating solar-thermal desalination by using machine learning. International Journal of Heat and Mass Transfer 236 (2025) 126365. [[Paper]](https://doi.org/10.1016/j.ijheatmasstransfer.2024.126365)
 
-- Guilong Peng, Zhenwei Xu, Jiajun Ji, <strong>Senshan Sun</strong>, Nuo Yang*. A study on the upper limit efficiency of solar still by optimizing the mass transfer. Applied Thermal Engineering 2022, 213: 118664. [[Paper]](https://github.com/senli1073/LaNCor)
+- Guilong Peng, Zhenwei Xu, Jiajun Ji, <strong>Senshan Sun</strong>, Nuo Yang*. A study on the upper limit efficiency of solar still by optimizing the mass transfer. Applied Thermal Engineering 2022, 213: 118664. [[Paper]](https://doi.org/10.1016/j.applthermaleng.2022.118664)
 
-- Wenjie Gao, Leshan Shen, <strong>Senshan Sun</strong>, Guilong Peng, Zhen Shen, Yunpeng Wang, AbdAllah Wagih Kandeal, Zhouyang Luo, A. E. Kabeel, Nuo Yang*, et al.. Forecasting solar still performance from conventional weather data variation by machine learning method. Chinese Physics B 2023, 32: 048801. [[Paper]](https://github.com/senli1073/LaNCor)
+- Wenjie Gao, Leshan Shen, <strong>Senshan Sun</strong>, Guilong Peng, Zhen Shen, Yunpeng Wang, AbdAllah Wagih Kandeal, Zhouyang Luo, A. E. Kabeel, Nuo Yang*, et al.. Forecasting solar still performance from conventional weather data variation by machine learning method. Chinese Physics B 2023, 32: 048801. [[Paper]](https://iopscience.iop.org/article/10.1088/1674-1056/ac989f)
 
 #### Patent
 
