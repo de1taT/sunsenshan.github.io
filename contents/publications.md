@@ -1,7 +1,7 @@
 
 #### Paper
 
-- <strong>Senshan Sun</strong>, Juxin Du, Guilong Peng*, Nuo Yang*. A data-driven method to construct prediction model of solar stills. Desalination 587 (2024) 117946. [[Paper]](../assets/pub/Desalination, 587 (2024) 117946..pdf)
+- <strong>Senshan Sun</strong>, Juxin Du, Guilong Peng*, Nuo Yang*. A data-driven method to construct prediction model of solar stills. Desalination 587 (2024) 117946. [Paper](../static/assets/pub/Desalination, 587 (2024) 117946..pdf)
 
 - Guilong Peng#, <strong>Senshan Sun#</strong>, Yangjun Qin, Zhenwei Xue, Juxin Du, Swellam W. sharshir, A. W. Kandel, A. E. Kabeel, Nuo Yang*. The effect of dataset size and the process of big data mining for investigating solar-thermal desalination by using machine learning. International Journal of Heat and Mass Transfer 236 (2025) 126365. [[Paper]](https://github.com/senli1073/LaNCor)
 
