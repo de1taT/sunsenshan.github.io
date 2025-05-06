@@ -1,4 +1,4 @@
-- National Scholarship of Graduate Student, 2024.
+- National Scholarship of Undergraduate Student, 2019&2020.
 
 - First-prize Scholarship of CUMT, 2024.
 
