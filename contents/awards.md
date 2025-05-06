@@ -1,13 +1,27 @@
-- National Scholarship of Undergraduate Student, 2019&2020.
+### Master period
 
-- First-prize Scholarship of CUMT, 2024.
+- First-prize Scholarship of HUST, 2021
 
-- First-prize Scholarship of CUMT, 2023.
+- Second-prize Scholarship of HUST, 2022&2023
+  
+- Excellent Graduates of HUST, 2024
 
-- Freshman Scholarship of CUMT, 2022.
+- Honor Roll Graduate Students of HUST, 2023
+  
+- Excellent Poster, the 6th Workshop on Thermal Transport, 2021
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+### Bachelor period
 
-- First-prize Scholarship of CUMT, 2019.
+- National Scholarship of Undergraduate Student, 2019&2020
+
+- Excellent Graduates of Jiangsu Province, 2021
+
+- Third-prize, National University Student Science Contest on Energy Saving and Emission Reduction, 2020
+
+- First-prize, May Day Mathematical Contest in Modeling, 2021
+
+- Third-prize, MathorCup Mathematical Contest in Modeling, 2019&2021
+
+- Third-prize, Asia and Pacific Mathematical Contest in Modeling, 2019
+
