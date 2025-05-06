@@ -18,6 +18,36 @@ sli[at]cumt.edu.cn
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
 B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
+<style>
+  table {
+    border: none;
+    width: 100%;
+  }
+  td, th {
+     border: none;
+  }
+</style>
+<table>
+<tr>
+  <td>2024.07-present</td>
+  <td>Huazhong University of Science and Technology</td>
+  <td>Research Assistant</td>
+  <td>Prof. Chengliang Wang</td>
+</tr>
+<tr>
+  <td>2021.07-2024.06</td>
+  <td>Huazhong University of Science and Technology</td>
+  <td>Master of Power Energy</td>
+  <td>Prof. Nuo Yang</td>
+</tr>
+<tr>
+  <td>2017.09-2021.06</td>
+  <td>China University of Mining and Technology</td>
+  <td>Bachelor of Engineering</td>
+  <td>Prof. Zhonghao Rao</td>
+</tr>
+</table>
+
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
