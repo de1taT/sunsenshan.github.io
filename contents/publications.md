@@ -1,9 +1,9 @@
 
 #### Paper
 
-- <strong>Senshan Sun</strong>, Juxin Du, Guilong Peng*, Nuo Yang*. A data-driven method to construct prediction model of solar stills. Desalination 587 (2024) 117946. [Paper](../static/assets/pub/Desalination, 587 (2024) 117946..pdf)
+- <strong>Senshan Sun</strong>, Juxin Du, Guilong Peng*, Nuo Yang*. A data-driven method to construct prediction model of solar stills. Desalination 587 (2024) 117946. [[Paper]](../static/assets/pub/Desalination, 587 (2024) 117946..pdf)
 
-- Guilong Peng#, <strong>Senshan Sun#</strong>, Yangjun Qin, Zhenwei Xue, Juxin Du, Swellam W. sharshir, A. W. Kandel, A. E. Kabeel, Nuo Yang*. The effect of dataset size and the process of big data mining for investigating solar-thermal desalination by using machine learning. International Journal of Heat and Mass Transfer 236 (2025) 126365. [[Paper]](https://github.com/senli1073/LaNCor)
+- Guilong Peng#, <strong>Senshan Sun#</strong>, Yangjun Qin, Zhenwei Xue, Juxin Du, Swellam W. sharshir, A. W. Kandel, A. E. Kabeel, Nuo Yang*. The effect of dataset size and the process of big data mining for investigating solar-thermal desalination by using machine learning. International Journal of Heat and Mass Transfer 236 (2025) 126365. [[Paper]](https://github.com/de1taT/sunsenshan.github.io/blob/97f133b28bb31554a0c7c34dc9620727aecb27d7/static/assets/pub/Int.%20J.%20Heat%20Mass%20Tran.%2C%20236%20(2025)%20126365..pdf)
 
 - Guilong Peng, Zhenwei Xu, Jiajun Ji, <strong>Senshan Sun</strong>, Nuo Yang*. A study on the upper limit efficiency of solar still by optimizing the mass transfer. Applied Thermal Engineering 2022, 213: 118664. [[Paper]](https://github.com/senli1073/LaNCor)
 
