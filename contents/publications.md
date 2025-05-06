@@ -11,6 +11,6 @@
 
 #### Patent
 
-- Nuo Yang*, <strong>Senshan Sun</strong>, Guilong Peng, Juxin Du, Bo Li, Zhenwei Xue, Yangjun Qin. Dating collection system and optimization method of hybrid thermal desalination system, China, Invention patent, Issue Date: 2024-05-14, Patent Number: ZL 202310162899.6. [[Patent]](https://github.com/de1taT/sunsenshan.github.io/blob/master/static/assets/pub/patent1.pdf)
+- Nuo Yang*, <strong>Senshan Sun</strong>, Guilong Peng, Juxin Du, Bo Li, Zhenwei Xue, Yangjun Qin. Dating collection system and optimization method of hybrid thermal desalination system, China, Invention patent, Issue Date: 2024-05-14, Patent Number: ZL 202310162899.6. [[Patent]](https://github.com/de1taT/sunsenshan.github.io/blob/main/static/assets/pub/patent1.pdf)
 
 - Nuo Yang*, Zhenwei Xu, Wenjie Gao, <strong>Senshan Sun</strong>, Gen Li, Guilong Peng, Yunpeng Wang. The Solar still system of inner and outer condensing, China, Invention patent, Access Date: 2021-04-09, Application Number: CN 112624238A. [[Patent]](https://github.com/de1taT/sunsenshan.github.io/blob/main/static/assets/pub/patent2.pdf)
