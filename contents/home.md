@@ -1,5 +1,5 @@
 
-I'm currently a PhD from School of Integrated Circults at Huazhong University of Science and Technology. My working group is [Laboratory for Organic Electronics](http://flexbatt.oei.hust.edu.cn/index.htm).
+I'm currently a PhD student from School of Integrated Circults at Huazhong University of Science and Technology. My working group is [Laboratory for Organic Electronics](http://flexbatt.oei.hust.edu.cn/index.htm).
 
 Google Scholar: [https://scholar.google.com/citations?hl=zh-CN&user=ejKPgccAAAAJ](https://scholar.google.com/citations?hl=zh-CN&user=ejKPgccAAAAJ)  
 Research Gate: [https://www.researchgate.net/profile/Senshan-Sun-2](https://www.researchgate.net/profile/Senshan-Sun-2)  
