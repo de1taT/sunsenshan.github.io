@@ -5,7 +5,7 @@
 
 - Guilong Peng#, <strong>Senshan Sun#</strong>, Yangjun Qin, Zhenwei Xue, Juxin Du, Swellam W. sharshir, A. W. Kandel, A. E. Kabeel, Nuo Yang*. The effect of dataset size and the process of big data mining for investigating solar-thermal desalination by using machine learning. International Journal of Heat and Mass Transfer 236 (2025) 126365. [[Paper]](https://doi.org/10.1016/j.ijheatmasstransfer.2024.126365)
 
-- Juxin Du#, <strong>Senshan Sun#</strong>, Tianhao Li, A.W. Kandeal, Guilong Peng, Nuo Yang*. Regulating humidification-dehumidification systems via machine learning based on quasi-digital twin. Applied Thermal Engineering Available online 4 October 2025, 128542. [[Paper]](https://doi.org/10.1016/j.applthermaleng.2025.128542)
+- Juxin Du#, <strong>Senshan Sun#</strong>, Tianhao Li, A.W. Kandeal, Guilong Peng, Nuo Yang*. Regulating humidification-dehumidification systems via machine learning based on quasi-digital twin. Applied Thermal Engineering 281 (2025) 128542. [[Paper]](https://doi.org/10.1016/j.applthermaleng.2025.128542)
 
 - Guilong Peng, Zhenwei Xu, Jiajun Ji, <strong>Senshan Sun</strong>, Nuo Yang*. A study on the upper limit efficiency of solar still by optimizing the mass transfer. Applied Thermal Engineering 2022, 213: 118664. [[Paper]](https://doi.org/10.1016/j.applthermaleng.2022.118664)
 
