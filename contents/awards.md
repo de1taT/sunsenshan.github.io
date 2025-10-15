@@ -1,3 +1,8 @@
+### PhD period
+
+- Third-prize, China Youth Science and Technology Innovation "Talents Recruitment Mechanism" Tournament, 2025
+
+
 ### Master period
 
 - First-prize Scholarship of HUST, 2021
