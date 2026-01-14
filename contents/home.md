@@ -45,5 +45,5 @@ E-maii: [sunsenshan@hust.edu.cn](mailto:sunsenshan@hust.edu.cn)
 </table>
 
 #### Research Interests
-Flexible lithium metal battery besign and thermal desalination assisted by machine learning
+Energy storage and efficient utilization assisted by machine learning, e.g. lithum ion battery and thermal management
 
