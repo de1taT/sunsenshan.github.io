@@ -1,6 +1,6 @@
 ### PhD period
 
-- Third-prize, China Youth Science and Technology Innovation "Talents Recruitment Mechanism" Tournament, 2025
+- Third-prize, China Youth Science and Technology Innovation "Open Bidding for Selecting the Best Candidates" Tournament, 2025
 
 
 ### Master period
