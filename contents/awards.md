@@ -1,6 +1,6 @@
 ### PhD period
 
-- Third-prize, The "Challenge Cup" Competition: "Open Bidding for Selecting the Best Candidates" Tournament, 2025
+- Third-prize, The "Challenge Cup" Competition: "Open Bidding for Selecting the Best Candidates", 2025
 
 
 ### Master period
