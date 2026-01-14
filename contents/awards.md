@@ -1,6 +1,6 @@
 ### PhD period
 
-- Third-prize, China Youth Science and Technology Innovation "Open Bidding for Selecting the Best Candidates" Tournament, 2025
+- Third-prize, The "Challenge Cup" Competition: "Open Bidding for Selecting the Best Candidates" Tournament, 2025
 
 
 ### Master period
