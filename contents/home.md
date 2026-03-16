@@ -4,7 +4,7 @@ I'm currently a PhD student from School of Integrated Circults at Huazhong Unive
 Google Scholar: [https://scholar.google.com/citations?hl=zh-CN&user=ejKPgccAAAAJ](https://scholar.google.com/citations?hl=zh-CN&user=ejKPgccAAAAJ)  
 Research Gate: [https://www.researchgate.net/profile/Senshan-Sun-2](https://www.researchgate.net/profile/Senshan-Sun-2)  
 
-E-maii: [sunsenshan@hust.edu.cn](mailto:sunsenshan@hust.edu.cn)
+E-mail: [sunsenshan@hust.edu.cn](mailto:sunsenshan@hust.edu.cn)
 
 #### Education
 
